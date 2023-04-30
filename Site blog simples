@@ -1,0 +1,52 @@
+<html>
+<head>
+        <title>Página principal</title>
+
+
+</head>
+<body>
+      <h1 id="inicio">Resumão HTML</h1>
+      <hr>
+      <h2>Índice</h2>
+<ul>
+        <li><a href="#Surgimento">Surgimento da Internet</a> </li>
+        <li><a href="#Como-funciona">Como funciona o html</a> </li>
+        <li><a href="#tags">O que são tags</a></li>
+        <li><a href="#Referencias">Referências</a></li>
+
+</ul>
+
+
+<h2 id="Surgimento">Surgimento da Internet</h2>
+<small><a href=#inicio>(Voltar)</a></small>
+
+<p>A Internet como conhecemos surgiu em <mark>1989</mark> e tem sua criação atribuída a <strong><i>Tim Berners-Lee</i></strong>.</p> 
+<p>Tim Berners-Lee, foi um revolucionário da era digital, ficou conhecido como pai da internet, é assim que algumas pessoas o chamam.</p>
+<p>O HTML foi criado por Tim, Html que é a Sigla para HyperText Markup Language — Linguagem de Marcação de Hipertexto, o HTML é o componente base da web.</p>
+
+<h2 id="Como-funciona">Como Funciona html</h2>
+<small><a href=#inicio>(Voltar)</a></small>
+
+<p>O HTML é uma linguagem de marcação. Estas linguagens são constituídas de códigos que delimitam conteúdos específicos, segundo uma sintaxe própria.</p>
+<p>Ele é constituidos por códigos e assim esses códigos definem a letra, a cor a marcação a centralização do texto,espaçamentos.</p>
+<p>Hoje qualquer pessoa pesquisando a estrutura html na internet é capaz de fazer seu primeiro site através de pesquisas na web.</p>
+
+
+
+<h2 id="tags">O que são tags</h2>
+<small><a href=#inicio>(Voltar)</a></small>
+
+<p>Os códigos em html precisam ter um código de iniciaçização e um de finalização exemplo se você for escrever um parágrafo usa-se a letra 'p'.</p>
+
+
+
+<h2 id="Referencias">Referências</h2>
+<small><a href=#inicio>(Voltar)</a></small>
+
+<p>https://www.ebiografia.com/quem_criou_internet/</p>
+<p>https://www.infoescola.com/informatica/html/</p>
+
+
+    </body>
+
+</html>
